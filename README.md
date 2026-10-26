@@ -23,9 +23,10 @@ Lavora con la pagina larga **512px** e l'inspector aperto: prova le modifiche ne
 
 ## Come procedere
 
-1. Scarica questa repo (bottone verde **Code** → **Download ZIP**) ed estraila.
-2. Crea nella cartella `index.html` e `style.css`.
-3. Crea su GitHub una **tua** repo pubblica chiamata `htmlcss-discord-mobile` e pubblicaci il lavoro.
+1. Fai il **fork** di questa repo: bottone **Fork** in alto a destra, lascia il nome `htmlcss-discord-mobile`. Il fork è la tua consegna: così il docente la vede.
+2. Clona il **tuo** fork sul computer (`git clone` con l'indirizzo del tuo fork, non di questa repo).
+3. Crea nella cartella `index.html` e `style.css` e lavora lì.
+4. Fai commit e push sul tuo fork.
 
 Obiettivi passo passo, come verificarli e suggerimenti sono nella pagina **CSS in pratica** che trovi nel canale del corso, sezione *Esercizio: Discord Mobile*. Per ripassare le proprietà: [dispense CSS](https://kb-aiwd.andreadev237.workers.dev/).
 
@@ -39,4 +40,4 @@ Guarda `bonus.png`. Alcuni bonus richiedono una piccola ricerca.
 
 ## Consegna
 
-Incolla il link alla tua repo nel canale del corso e scrivi se hai fatto dei bonus.
+Fai push sul tuo fork entro la scadenza, poi incolla il link nel canale del corso e scrivi se hai fatto dei bonus.
