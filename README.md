@@ -1,7 +1,6 @@
 # htmlcss-discord-mobile
 
 Esercizio da fare da soli dopo la lezione CSS di sabato 24/10.
-**Consegna entro martedì 27/10 alle 19:00.**
 
 ## Consegna
 
@@ -40,4 +39,4 @@ Guarda `bonus.png`. Alcuni bonus richiedono una piccola ricerca.
 
 ## Consegna
 
-Fai push sul tuo fork entro la scadenza, poi incolla il link nel canale del corso e scrivi se hai fatto dei bonus.
+Fai push sul tuo fork, poi incolla il link nel canale del corso e scrivi se hai fatto dei bonus.
